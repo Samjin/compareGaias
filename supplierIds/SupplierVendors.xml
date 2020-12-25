@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="order">siteid, brand, code</entry>
+
+    <!--A comma separated list of preferred car rental companies -->
+    <entry key="PreferredCompaniesCodeList">ZD,ZR,ET,EP,ZE,ZA,ZT,AD,AL,ZI,FX,ZL,ZH,SX,SV</entry>
+
+    <entry key="CarRentalCompanyNameByCode"></entry>
+    <entry key="CarRentalCompanyNameByCode? code=AC">ACE Rent A Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=EY">Economy Rent a Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZD">Budget</entry>
+    <entry key="CarRentalCompanyNameByCode? code=DX">Deluxe Rent a Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZR">Dollar Rent A Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ET">Enterprise</entry>
+    <entry key="CarRentalCompanyNameByCode? code=EP">Europcar</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZE">Hertz</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZA">Payless</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZT">Thrifty Car Rental</entry>
+    <entry key="CarRentalCompanyNameByCode? code=AD">Advantage Rent-A-Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=AL">Alamo Rent A Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZI">Avis</entry>
+    <entry key="CarRentalCompanyNameByCode? code=EZ">EZ Rent-A-Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=MW">Midway Car Rental</entry>
+    <entry key="CarRentalCompanyNameByCode? code=FX">Fox Rental Cars</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZL">National Car Rental</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZH">Simply Wheelz by Hertz</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SX">Sixt</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SV">U-Save</entry>
+    <entry key="CarRentalCompanyNameByCode? code=NU">NÜ Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=CC">Citer</entry>
+    <entry key="CarRentalCompanyNameByCode? code=FF">Firefly</entry>
+    <entry key="CarRentalCompanyNameByCode? code=GU">Guerin Car Rental Solutions</entry>
+    <entry key="CarRentalCompanyNameByCode? code=AH">AddCar rental</entry>
+    <entry key="CarRentalCompanyNameByCode? code=AE">Aerodrive</entry>
+    <entry key="CarRentalCompanyNameByCode? code=PX">Apex Car Rentals</entry>
+    <entry key="CarRentalCompanyNameByCode? code=CU">Cal Auto</entry>
+    <entry key="CarRentalCompanyNameByCode? code=DS">Discount Car Rentals</entry>
+    <entry key="CarRentalCompanyNameByCode? code=DQ">Discount Quebec</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ES">Easirent</entry>
+    <entry key="CarRentalCompanyNameByCode? code=IE">Ezi</entry>
+    <entry key="CarRentalCompanyNameByCode? code=FI">Foco</entry>
+    <entry key="CarRentalCompanyNameByCode? code=GE">Get Your Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=GS">GO Rentals</entry>
+    <entry key="CarRentalCompanyNameByCode? code=GI">Greenmotion</entry>
+    <entry key="CarRentalCompanyNameByCode? code=JY">Jucy</entry>
+    <entry key="CarRentalCompanyNameByCode? code=MB">MAS by Mex</entry>
+    <entry key="CarRentalCompanyNameByCode? code=MX">Mex Rent A Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=MO">Movida Rent A Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=NC">Nextcar</entry>
+    <entry key="CarRentalCompanyNameByCode? code=PR">Priceless Car Rental</entry>
+    <entry key="CarRentalCompanyNameByCode? code=RW">Rent A Wreck</entry>
+    <entry key="CarRentalCompanyNameByCode? code=RP">Rentscape</entry>
+    <entry key="CarRentalCompanyNameByCode? code=RH">Rhodium</entry>
+    <entry key="CarRentalCompanyNameByCode? code=RG">Right-Cars</entry>
+    <entry key="CarRentalCompanyNameByCode? code=RO">Routes</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SB">Sicily By Car</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SC">Silvercar by Audi</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SP">Snap Rentals</entry>
+    <entry key="CarRentalCompanyNameByCode? code=SU">SurPrice Car Rentals</entry>
+    <entry key="CarRentalCompanyNameByCode? code=UN">Unidas</entry>
+    <entry key="CarRentalCompanyNameByCode? code=WZ">Whiz</entry>
+    <entry key="CarRentalCompanyNameByCode? code=ZM">Zoom</entry>
+
+    <entry key="PreferredCompaniesCodeList ?   brand=orbitz">AC,EY,ZD,ZR,ET,EP,ZE,ZA,ZT,AD,AL,ZI,EZ,FX,ZL,ZH,SX,SV,NU,CC,FF,GU,MW</entry>
+    <entry key="PreferredCompaniesCodeList ?   brand=cheaptickets ">AC,EY,ZD,ZR,ET,EP,ZE,ZA,ZT,AD,AL,ZI,EZ,FX,ZL,ZH,SX,SV,NU,CC,FF,GU,MW</entry>
+    <entry key="PreferredCompaniesCodeList ?   brand=ebookers">AC,EY,ZD,ZR,ET,EP,ZE,ZA,ZT,AD,AL,ZI,EZ,FX,ZL,ZH,SX,SV,NU,CC,FF,GU,MW</entry>
+    <entry key="PreferredCompaniesCodeList ?   brand=mrjet">AC,EY,ZD,ZR,ET,EP,ZE,ZA,ZT,AD,AL,ZI,EZ,FX,ZL,ZH,SX,SV,NU,CC,FF,GU,MW</entry>
+    <entry key="PreferredCompaniesCodeList ?   brand=carrentals">AC,AH,AE,AL,PX,ZI,ZD,CU,DS,DQ,ZR,ES,EY,ET,EP,IE,FF,FX,GE,GS,GI,ZE,JY,MB,MX,MW,MO,ZL,NC,NU,ZA,PR,RW,RP,RH,RG,RO,SB,SC,SX,SP,SU,ZT,UN,SV,WZ,ZM</entry>
+
+    <!-- Carrentals.com 70801 -->
+    <entry key="PreferredCompaniesCodeList ?   siteid=70801">AC,AH,AE,AL,PX,ZI,ZD,CU,DS,DQ,ZR,ES,EY,ET,EP,IE,FF,FX,GE,GS,GI,ZE,JY,MB,MX,MW,MO,ZL,NC,NU,ZA,PR,RW,RP,RH,RG,RO,SB,SC,SX,SP,SU,ZT,UN,SV,WZ,ZM</entry>
+
+</properties>

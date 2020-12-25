@@ -1,0 +1,196 @@
+  <entry key="CarRentalCompanyNameByCode"></entry>
+  <entry key="CarRentalCompanyNameByCode? code=1">All-American</entry>
+  <entry key="CarRentalCompanyNameByCode? code=2">Ace</entry>
+  <entry key="CarRentalCompanyNameByCode? code=3">Advantage Rent-A-Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=4">Americar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=5">Afinity</entry>
+  <entry key="CarRentalCompanyNameByCode? code=6">Alamo Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=7">Airport Re</entry>
+  <entry key="CarRentalCompanyNameByCode? code=8">Practical</entry>
+  <entry key="CarRentalCompanyNameByCode? code=9">Airways</entry>
+  <entry key="CarRentalCompanyNameByCode? code=10">Town Cntry</entry>
+  <entry key="CarRentalCompanyNameByCode? code=11">Discount Car Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=12">DER Cars</entry>
+  <entry key="CarRentalCompanyNameByCode? code=13">European Car Res_DO NOT USE</entry>
+  <entry key="CarRentalCompanyNameByCode? code=14">Europcar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=15">Enterprise</entry>
+  <entry key="CarRentalCompanyNameByCode? code=16">Us Rent A</entry>
+  <entry key="CarRentalCompanyNameByCode? code=17">EZ Rent-A-Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=18">Florida Au</entry>
+  <entry key="CarRentalCompanyNameByCode? code=19">Fox Rental Cars</entry>
+  <entry key="CarRentalCompanyNameByCode? code=20">Value</entry>
+  <entry key="CarRentalCompanyNameByCode? code=21">Govacation</entry>
+  <entry key="CarRentalCompanyNameByCode? code=22">Holiday</entry>
+  <entry key="CarRentalCompanyNameByCode? code=23">InterAmerican</entry>
+  <entry key="CarRentalCompanyNameByCode? code=24">Kemwel Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=25">Kenning</entry>
+  <entry key="CarRentalCompanyNameByCode? code=26">Allstate</entry>
+  <entry key="CarRentalCompanyNameByCode? code=27">Midway Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=28">New Frontier</entry>
+  <entry key="CarRentalCompanyNameByCode? code=29">Savmor Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=30">Record Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=31">Rent Rite</entry>
+  <entry key="CarRentalCompanyNameByCode? code=32">Resort</entry>
+  <entry key="CarRentalCompanyNameByCode? code=33">Rent A Wreck</entry>
+  <entry key="CarRentalCompanyNameByCode? code=34">U-Save</entry>
+  <entry key="CarRentalCompanyNameByCode? code=35">Sixt</entry>
+  <entry key="CarRentalCompanyNameByCode? code=36">Triangle</entry>
+  <entry key="CarRentalCompanyNameByCode? code=37">Its</entry>
+  <entry key="CarRentalCompanyNameByCode? code=38">Payless</entry>
+  <entry key="CarRentalCompanyNameByCode? code=39">Budget</entry>
+  <entry key="CarRentalCompanyNameByCode? code=40">Hertz</entry>
+  <entry key="CarRentalCompanyNameByCode? code=41">Avis</entry>
+  <entry key="CarRentalCompanyNameByCode? code=42">National Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=43">Dollar Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=44">Sears Car and Truck Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=45">Thrifty Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=46">Auto Europe</entry>
+  <entry key="CarRentalCompanyNameByCode? code=47">Montgomery</entry>
+  <entry key="CarRentalCompanyNameByCode? code=68">Simply Wheelz by Hertz</entry>
+  <entry key="CarRentalCompanyNameByCode? code=69">Economy Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=70">Economy Rent a Car-Obsolete</entry>
+  <entry key="CarRentalCompanyNameByCode? code=71">NÜ Car Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=72">Deluxe Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=73">Citer</entry>
+  <entry key="CarRentalCompanyNameByCode? code=74">Atesa</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1000">296 Rent-a-car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1001">Amigos do Auto</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1002">addCar rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1003">Auto Jardim</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1004">Avis Corsica</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1005">AirCar Car rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1006">Auto Rent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1008">AVIA CAR</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1009">Bravacar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1010">TargaRent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1011">Buchbinder</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1012">Budget Israel</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1013">Bravo Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1014">Caro Autovermietung</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1015">Centauro</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1016">Hertz Romania</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1017">Easirent.com</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1018">Express S.A.</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1019">First-Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1020">Fox Autorent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1021">Guerin Old Do not use</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1022">Goldcar rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1023">Hertz Canaries</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1024">Proa Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1025">Hertz Greece</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1026">Hiper Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1027">Thai Cars</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1028">Top Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1029">Localiza Colombia</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1030">Lagorent Rent-a-Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1031">National Greece</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1032">Sol Mar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1033">STARCAR</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1034">SurPrice Car Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1035">Unidas</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1036">Autos Valls</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1037">Victoria Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1038">Z&amp;X Cyprus</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1039">Easirent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1040">Firefly</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1041">CiCar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1042">GreenMotion Drive&amp;Go</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1043">Interrent EU</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1044">Interrent Key’n Go</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1045">Thrifty Spain</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1046">Thrifty France</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1047">Orlando</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1048">Sicily By Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1049">Movida</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1050">Drive on Holidays</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1053">Buchbinder Germany</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1054">Firefly EU</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1055">Thrifty EU</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1056">Firefly DE</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1057">OK RENT A CAR</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1058">Thrifty Canaries</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1059">ORYX Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1060">Priceless Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1061">Nextcar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1062">Global Rent a Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1063">Localiza</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1064">Apex Car Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1065">Dollar NL</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1066">Owners</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1067">Jumbo Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1068">Dollar CH</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1069">Keddy By Europcar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1070">Right Cars</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1071">Firefly Portugal</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1072">Jumbo Car reunion</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1073">Jumbo Car martinique</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1074">MegaDrive</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1075">Maggiore</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1076">Hawk</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1077">SR Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1078">Redspot</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1079">Dollar DP</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1080">Budget Rhodes</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1081">Budget UAE</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1082">Drive-A-Matic</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1083">Movida Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1084">Mex Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1085">Essence Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1086">GRS Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1087">Bidvest</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1088">United</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1089">Click &amp; Rent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1090">Dollar Europe</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1091">Dollar</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1092">Airport Van Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1093">Greenmotion</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1094">Silvercar by Audi</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1095">AutoClick</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1096">Jace</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1097">Localiza Argentina</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1098">Flizzr</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1099">Leasys</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1100">Turisprime</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1101">Routes</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1102">Right-Cars</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1103">RentACar Guadeloupe</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1104">ACE Australia</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1105">Firefly Greece</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1106">ACE New Zealand</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1107">First Car Rental</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1108">Firefly Cyprus</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1109">ADA</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1110">Dirent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1111">Foco</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1112">SS Travels</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1113">Localiza Uruguay</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1114">Unidas Br</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1115">Interrent</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1116">Aerodrive</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1117">Whiz</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1118">Jumbo Car French Guyane</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1119">Thrifty NZ</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1120">Get Your Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1121">Rhodium</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1122">ZezGo</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1123">Fleet</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1124">Express Travel Group</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1125">Rentscape</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1126">Sixt Ni</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1127">WIber</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1128">Amigo Autos</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1129">Guerin</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1130">Ilha Verde</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1131">Cal Auto</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1132">Island Car Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1133">KK Leisure</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1134">NICONICO Rent A Car</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1135">Avis Canaries</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1136">Budget Canaries</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1137">Discount Quebec</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1138">RentMotors</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1139">Smile</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1140">Locauto</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1141">Offer Car Hire</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1142">Snap Rentals</entry>
+  <entry key="CarRentalCompanyNameByCode? code=1143">Tripz</entry>
